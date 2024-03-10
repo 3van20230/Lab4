@@ -28,7 +28,7 @@ Tests run: 2,  Failures: 1
 ```
 
 steps 7:
-first `cd lab7` and use `ls` to list out the files, edit the file "ListExamplesTests.java" by using `nano ListExamplesTests.java`<Down><Down><Down><Down><Down><right><right><right><right> to find `@Test(timeout = 500)` change the `500` to `1000`after that use ctrl+O to save the change, press <enter> to admit the change, last ctrl + X to exit the editor. after that use `nano ListExamples.java` to edit the file "ListExamples.java" '<Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down>' to find the line `index1 += 1;` and change it to `index2 += 1;` ctrl+O to save , press <enter> to admit the change, and ctrl + X to exit the editor.
+first `cd lab7` and use `ls` to list out the files, edit the file "ListExamplesTests.java" by using `nano ListExamplesTests.java`<Down><Down><Down><Down><Down><right><right><right><right> to find `@Test(timeout = 500)` change the `500` to `1000`after that use ctrl+O to save the change, press <enter> to admit the change, last ctrl + X to exit the editor. after that use `nano ListExamples.java` to edit the file "ListExamples.java" `<Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down> <Down>` to find the line `index1 += 1;` and change it to `index2 += 1;` ctrl+O to save , press <enter> to admit the change, and ctrl + X to exit the editor.
 
 
 steps 8:
